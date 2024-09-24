@@ -4,4 +4,4 @@ __pycache__/
 conf/
 
 # Ignore docker-compose.yml
-# docker-compose.yml
+docker-compose.yml
