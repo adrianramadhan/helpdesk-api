@@ -1,0 +1,1623 @@
+[
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "portal",
+        "importPath": "odoo.addons.portal.controllers",
+        "description": "odoo.addons.portal.controllers",
+        "isExtraImport": true,
+        "detail": "odoo.addons.portal.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "portal",
+        "importPath": "odoo.addons.portal.controllers",
+        "description": "odoo.addons.portal.controllers",
+        "isExtraImport": true,
+        "detail": "odoo.addons.portal.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "isExtraImport": true,
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "isExtraImport": true,
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteForm",
+        "importPath": "odoo.addons.website.controllers.form",
+        "description": "odoo.addons.website.controllers.form",
+        "isExtraImport": true,
+        "detail": "odoo.addons.website.controllers.form",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteForm",
+        "importPath": "odoo.addons.website.controllers.form",
+        "description": "odoo.addons.website.controllers.form",
+        "isExtraImport": true,
+        "detail": "odoo.addons.website.controllers.form",
+        "documentation": {}
+    },
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskAPI",
+        "kind": 6,
+        "importPath": "addons.helpdesk_api.controllers.main",
+        "description": "addons.helpdesk_api.controllers.main",
+        "peekOfCode": "class HelpdeskAPI(http.Controller):\n    @http.route('/api/login', auth='public', type='json', methods=['POST'], csrf=False)\n    def login(self, **kwargs):\n        \"\"\"Login method to authenticate the user and start a session\"\"\"\n        login = kwargs.get('login')\n        password = kwargs.get('password')\n        if not login or not password:\n            return json.dumps({'error': 'Login and password are required'})\n        # Authenticate the user and start a session\n        try:",
+        "detail": "addons.helpdesk_api.controllers.main",
+        "documentation": {}
+    },
+    {
+        "label": "HelpTicket",
+        "kind": 6,
+        "importPath": "addons.helpdesk_api.models.help_ticket",
+        "description": "addons.helpdesk_api.models.help_ticket",
+        "peekOfCode": "class HelpTicket(models.Model):\n    \"\"\"This model represents the Helpdesk Ticket, which allows users to raise\n    tickets related to products, services or any other issues. Each ticket has a\n    name, customer information, description, team responsible for handling\n    requests, associated project, priority level, stage, cost per hour, service\n    product, start and end dates, and related tasks and invoices.\"\"\"\n    _name = 'help.ticket'\n    _description = 'Help Ticket'\n    _inherit = ['mail.thread', 'mail.activity.mixin']\n    name = fields.Char(string='Name', default=lambda self: _('New'),",
+        "detail": "addons.helpdesk_api.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "addons.helpdesk_api.models.help_ticket",
+        "description": "addons.helpdesk_api.models.help_ticket",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nPRIORITIES = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),\n    ('2', 'Normal'),\n    ('3', 'High'),\n    ('4', 'Very High'),\n]\nRATING = [\n    ('0', 'Very Low'),",
+        "detail": "addons.helpdesk_api.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "PRIORITIES",
+        "kind": 5,
+        "importPath": "addons.helpdesk_api.models.help_ticket",
+        "description": "addons.helpdesk_api.models.help_ticket",
+        "peekOfCode": "PRIORITIES = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),\n    ('2', 'Normal'),\n    ('3', 'High'),\n    ('4', 'Very High'),\n]\nRATING = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),",
+        "detail": "addons.helpdesk_api.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "RATING",
+        "kind": 5,
+        "importPath": "addons.helpdesk_api.models.help_ticket",
+        "description": "addons.helpdesk_api.models.help_ticket",
+        "peekOfCode": "RATING = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),\n    ('2', 'Normal'),\n    ('3', 'High'),\n    ('4', 'Very High'),\n    ('5', 'Extreme High')\n]\nclass HelpTicket(models.Model):\n    \"\"\"This model represents the Helpdesk Ticket, which allows users to raise",
+        "detail": "addons.helpdesk_api.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskApis",
+        "kind": 6,
+        "importPath": "addons.helpdesk_apis.controllers.controllers",
+        "description": "addons.helpdesk_apis.controllers.controllers",
+        "peekOfCode": "class HelpdeskApis(http.Controller):\n    @http.route('/helpdesk_apis/helpdesk_apis', auth='public')\n    def index(self, **kw):\n        return \"Hello, world\"\n    @http.route('/helpdesk_apis/helpdesk_apis/objects', auth='public')\n    def list(self, **kw):\n        return http.request.render('helpdesk_apis.listing', {\n            'root': '/helpdesk_apis/helpdesk_apis',\n            'objects': http.request.env['helpdesk_apis.helpdesk_apis'].search([]),\n        })",
+        "detail": "addons.helpdesk_apis.controllers.controllers",
+        "documentation": {}
+    },
+    {
+        "label": "bin_to_base64",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.encode_decode",
+        "description": "addons.helpdesk_apis.helpers.encode_decode",
+        "peekOfCode": "def bin_to_base64(image_binary):\n    \"\"\"\n    Converts binary data to a base64-encoded ASCII string.\n    \"\"\"\n    return image_binary.decode('ascii') if image_binary else ''\ndef encode_bin(image_binary):\n    return base64.b64encode(image_binary.read()) if image_binary else False\ndef encode_object(obj):\n    \"\"\"\n    Encodes a Python dictionary into a base64 string.",
+        "detail": "addons.helpdesk_apis.helpers.encode_decode",
+        "documentation": {}
+    },
+    {
+        "label": "encode_bin",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.encode_decode",
+        "description": "addons.helpdesk_apis.helpers.encode_decode",
+        "peekOfCode": "def encode_bin(image_binary):\n    return base64.b64encode(image_binary.read()) if image_binary else False\ndef encode_object(obj):\n    \"\"\"\n    Encodes a Python dictionary into a base64 string.\n    :param obj: The dictionary to encode\n    :return: Base64 encoded string\n    \"\"\"\n    # Convert dictionary to JSON string\n    json_str = json.dumps(obj)",
+        "detail": "addons.helpdesk_apis.helpers.encode_decode",
+        "documentation": {}
+    },
+    {
+        "label": "encode_object",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.encode_decode",
+        "description": "addons.helpdesk_apis.helpers.encode_decode",
+        "peekOfCode": "def encode_object(obj):\n    \"\"\"\n    Encodes a Python dictionary into a base64 string.\n    :param obj: The dictionary to encode\n    :return: Base64 encoded string\n    \"\"\"\n    # Convert dictionary to JSON string\n    json_str = json.dumps(obj)\n    # Encode JSON string to base64\n    base64_bytes = base64.b64encode(json_str.encode('utf-8'))",
+        "detail": "addons.helpdesk_apis.helpers.encode_decode",
+        "documentation": {}
+    },
+    {
+        "label": "decode_object",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.encode_decode",
+        "description": "addons.helpdesk_apis.helpers.encode_decode",
+        "peekOfCode": "def decode_object(base64_str):\n    \"\"\"\n    Decodes a base64 string back into a Python dictionary.\n    :param base64_str: Base64 encoded string\n    :return: Original Python dictionary\n    \"\"\"\n    # Decode base64 string to JSON string\n    json_bytes = base64.b64decode(base64_str.encode('utf-8'))\n    json_str = json_bytes.decode('utf-8')\n    # Convert JSON string to dictionary",
+        "detail": "addons.helpdesk_apis.helpers.encode_decode",
+        "documentation": {}
+    },
+    {
+        "label": "generate_hash",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.hash",
+        "description": "addons.helpdesk_apis.helpers.hash",
+        "peekOfCode": "def generate_hash(data):\n    \"\"\"\n    Generate a SHA-256 hash for the given data.\n    :param data: The string data to hash.\n    :return: The hexadecimal representation of the hash.\n    \"\"\"\n    if not isinstance(data, str):\n        raise TypeError(\"Data must be a string\")\n    # Encode the string data to bytes\n    data_bytes = data.encode('utf-8')",
+        "detail": "addons.helpdesk_apis.helpers.hash",
+        "documentation": {}
+    },
+    {
+        "label": "assert_hash",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.hash",
+        "description": "addons.helpdesk_apis.helpers.hash",
+        "peekOfCode": "def assert_hash(data, expected_hash):\n    \"\"\"\n    Assert that the given data, when hashed, matches the expected hash.\n    :param data: The string data to hash and compare.\n    :param expected_hash: The expected hexadecimal hash value.\n    :return: True if the hash matches, False otherwise.\n    \"\"\"\n    if not isinstance(data, str):\n        raise TypeError(\"Data must be a string\")\n    # Generate hash of the data",
+        "detail": "addons.helpdesk_apis.helpers.hash",
+        "documentation": {}
+    },
+    {
+        "label": "ResCompany",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.models",
+        "description": "addons.helpdesk_apis.helpers.models",
+        "peekOfCode": "def ResCompany(env): return env['res.company'].sudo()\ndef ResCurrency(env): return env['res.currency'].sudo()\ndef ResPartner(env): return env['res.partner'].sudo()\ndef Event(env): return env['event.event'].sudo()",
+        "detail": "addons.helpdesk_apis.helpers.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResCurrency",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.models",
+        "description": "addons.helpdesk_apis.helpers.models",
+        "peekOfCode": "def ResCurrency(env): return env['res.currency'].sudo()\ndef ResPartner(env): return env['res.partner'].sudo()\ndef Event(env): return env['event.event'].sudo()",
+        "detail": "addons.helpdesk_apis.helpers.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResPartner",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.models",
+        "description": "addons.helpdesk_apis.helpers.models",
+        "peekOfCode": "def ResPartner(env): return env['res.partner'].sudo()\ndef Event(env): return env['event.event'].sudo()",
+        "detail": "addons.helpdesk_apis.helpers.models",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.models",
+        "description": "addons.helpdesk_apis.helpers.models",
+        "peekOfCode": "def Event(env): return env['event.event'].sudo()",
+        "detail": "addons.helpdesk_apis.helpers.models",
+        "documentation": {}
+    },
+    {
+        "label": "extract_fields_from_request",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.request",
+        "description": "addons.helpdesk_apis.helpers.request",
+        "peekOfCode": "def extract_fields_from_request(data, required_fields):\n    \"\"\"\n    Extracts fields from the given JSON data.\n    Raises a validation error if any of the required fields are missing.\n    :param data: JSON data from request.httprequest.data\n    :param required_fields: List of keys that are required in the JSON data\n    :return: A dictionary with the extracted fields\n    \"\"\"\n    try:\n        # Parse the JSON data",
+        "detail": "addons.helpdesk_apis.helpers.request",
+        "documentation": {}
+    },
+    {
+        "label": "extract_multipart_fields",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.request",
+        "description": "addons.helpdesk_apis.helpers.request",
+        "peekOfCode": "def extract_multipart_fields(request, required_fields):\n    \"\"\"\n    Extract fields from a multipart/form-data request.\n    Raises a validation error if any of the required fields are missing.\n    :param request: The HTTP request object.\n    :param required_fields: List of keys that are required in the form-data.\n    :return: A dictionary with the extracted fields and files.\n    \"\"\"\n    extracted_data = {}\n    for field in required_fields:",
+        "detail": "addons.helpdesk_apis.helpers.request",
+        "documentation": {}
+    },
+    {
+        "label": "make_json",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.response",
+        "description": "addons.helpdesk_apis.helpers.response",
+        "peekOfCode": "def make_json(raw):\n    return json.dumps(raw)\ndef base_format(data, message):\n    return {\n        'message': message,\n        'data': data\n    }\ndef response_json(raw_data, message, status=200):\n    return Response(make_json(base_format(data=raw_data,message=message)), content_type='application/json', status=status)",
+        "detail": "addons.helpdesk_apis.helpers.response",
+        "documentation": {}
+    },
+    {
+        "label": "base_format",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.response",
+        "description": "addons.helpdesk_apis.helpers.response",
+        "peekOfCode": "def base_format(data, message):\n    return {\n        'message': message,\n        'data': data\n    }\ndef response_json(raw_data, message, status=200):\n    return Response(make_json(base_format(data=raw_data,message=message)), content_type='application/json', status=status)",
+        "detail": "addons.helpdesk_apis.helpers.response",
+        "documentation": {}
+    },
+    {
+        "label": "response_json",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.response",
+        "description": "addons.helpdesk_apis.helpers.response",
+        "peekOfCode": "def response_json(raw_data, message, status=200):\n    return Response(make_json(base_format(data=raw_data,message=message)), content_type='application/json', status=status)",
+        "detail": "addons.helpdesk_apis.helpers.response",
+        "documentation": {}
+    },
+    {
+        "label": "HideMenuUser",
+        "kind": 6,
+        "importPath": "addons.hide_menu_user.models.res_user",
+        "description": "addons.hide_menu_user.models.res_user",
+        "peekOfCode": "class HideMenuUser(models.Model):\n    _inherit = 'res.users'\n    @api.model_create_multi\n    def create(self, vals_list):\n        \"\"\"\n        Else the menu will be still hidden even after removing from the list\n        \"\"\"\n        self.clear_caches()\n        return super(HideMenuUser, self).create(vals_list)\n    def write(self, vals):",
+        "detail": "addons.hide_menu_user.models.res_user",
+        "documentation": {}
+    },
+    {
+        "label": "RestrictMenu",
+        "kind": 6,
+        "importPath": "addons.hide_menu_user.models.res_user",
+        "description": "addons.hide_menu_user.models.res_user",
+        "peekOfCode": "class RestrictMenu(models.Model):\n    _inherit = 'ir.ui.menu'\n    restrict_user_ids = fields.Many2many('res.users')",
+        "detail": "addons.hide_menu_user.models.res_user",
+        "documentation": {}
+    },
+    {
+        "label": "HelpDeskDashboard",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.controller.helpdesk_website",
+        "description": "addons.odoo_website_helpdesk.controller.helpdesk_website",
+        "peekOfCode": "class HelpDeskDashboard(http.Controller):\n    \"\"\"Website helpdesk dashboard\"\"\"\n    @http.route(['/helpdesk_dashboard'], type='json', auth=\"public\")\n    def helpdesk_dashboard(self):\n        \"\"\"Helpdesk dashboard controller\"\"\"\n        stage_new = request.env['ticket.stage'].search(\n            [('name', '=', 'Inbox')], limit=1).id\n        stage_draft = request.env['ticket.stage'].search(\n            [('name', '=', 'Draft')], limit=1).id\n        stage_inprogress = request.env['ticket.stage'].search(",
+        "detail": "addons.odoo_website_helpdesk.controller.helpdesk_website",
+        "documentation": {}
+    },
+    {
+        "label": "TicketPortal",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.controller.portal",
+        "description": "addons.odoo_website_helpdesk.controller.portal",
+        "peekOfCode": "class TicketPortal(portal.CustomerPortal):\n    \"\"\" Controller for handling customer portal related actions related to\n    helpdesk tickets.\n    \"\"\"\n    def _prepare_home_portal_values(self, counters):\n        \"\"\"Prepares a dictionary of values to be used in the home portal view\n        and get their count.\"\"\"\n        values = super()._prepare_home_portal_values(counters)\n        if 'ticket_count' in counters:\n            ticket_count = request.env['help.ticket'].search_count(",
+        "detail": "addons.odoo_website_helpdesk.controller.portal",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteDesk",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.controller.portal",
+        "description": "addons.odoo_website_helpdesk.controller.portal",
+        "peekOfCode": "class WebsiteDesk(http.Controller):\n    \"\"\"Control for handling the helpdesk tickets form and its submission.\"\"\"\n    @http.route(['/helpdesk_ticket'], type='http', auth=\"public\",\n                website=True, sitemap=True)\n    def helpdesk_ticket(self):\n        \"\"\"Render the helpdesk ticket form.\"\"\"\n        types = request.env['helpdesk.types'].sudo().search([])\n        categories = request.env['helpdesk.categories'].sudo().search([])\n        product = request.env['product.template'].sudo().search([])\n        values = {}",
+        "detail": "addons.odoo_website_helpdesk.controller.portal",
+        "documentation": {}
+    },
+    {
+        "label": "TicketGroupBy",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.controller.ticket_group_by",
+        "description": "addons.odoo_website_helpdesk.controller.ticket_group_by",
+        "peekOfCode": "class TicketGroupBy(http.Controller):\n    \"\"\"Control for handle the  customer portal groupBy\n    filtering by the tickets.\"\"\"\n    @http.route(['/ticketgroupby'], type='json', auth=\"public\", website=True)\n    def ticket_group_by(self, **kwargs):\n        \"\"\"Display the list of tickets based on the groupBy filtering\"\"\"\n        context = []\n        group_value = kwargs.get(\"search_value\")\n        if group_value == '0':\n            context = []",
+        "detail": "addons.odoo_website_helpdesk.controller.ticket_group_by",
+        "documentation": {}
+    },
+    {
+        "label": "TicketSearch",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.controller.ticket_search",
+        "description": "addons.odoo_website_helpdesk.controller.ticket_search",
+        "peekOfCode": "class TicketSearch(http.Controller):\n    \"\"\"Control for handle the  customer portal search\n    filtering by the tickets.\"\"\"\n    @http.route(['/ticketsearch'], type='json', auth=\"public\", website=True)\n    def ticket_search(self, **kwargs):\n        \"\"\" Display the list of tickets satisfying the searching condition.\n        Searching the ticket  based on name or subject\"\"\"\n        search_value = kwargs.get(\"search_value\")\n        tickets = request.env[\"help.ticket\"].search(\n            ['|', ('name', 'ilike', search_value),",
+        "detail": "addons.odoo_website_helpdesk.controller.ticket_search",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskProduct",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.controller.website",
+        "description": "addons.odoo_website_helpdesk.controller.website",
+        "peekOfCode": "class HelpdeskProduct(http.Controller):\n    \"\"\"It controls the website products and return the product.\"\"\"\n    @http.route('/product', auth='public', type='json')\n    def product(self):\n        \"\"\"Product control function\"\"\"\n        products = request.env['product.template'].sudo().search_read([],\n                                                                      ['name',\n                                                                       'id'])\n        return products\nclass WebsiteFormInherit(WebsiteForm):",
+        "detail": "addons.odoo_website_helpdesk.controller.website",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteFormInherit",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.controller.website",
+        "description": "addons.odoo_website_helpdesk.controller.website",
+        "peekOfCode": "class WebsiteFormInherit(WebsiteForm):\n    \"\"\"This module extends the functionality of the website form controller\n    to handle the creation of new help desk tickets. It provides a new\n    controller to display a list of tickets for the current user in their\n    portal, and overrides the website form controller's method for handling\n    form submissions to create a new help desk ticket instead.\"\"\"\n    def _handle_website_form(self, model_name, **kwargs):\n        \"\"\"Website Help Desk Form\"\"\"\n        customer = request.env.user.partner_id\n        if model_name == 'help.ticket':",
+        "detail": "addons.odoo_website_helpdesk.controller.website",
+        "documentation": {}
+    },
+    {
+        "label": "AccountMove",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.account_move",
+        "description": "addons.odoo_website_helpdesk.models.account_move",
+        "peekOfCode": "class AccountMove(models.Model):\n    \"\"\" This class extends the functionality of the 'account.move' model to\n    include a reference to a help ticket through the 'ticket_id' field.\"\"\"\n    _inherit = 'account.move'\n    ticket_id = fields.Many2one('help.ticket', string='Ticket',\n                                help='Choose the tickets')",
+        "detail": "addons.odoo_website_helpdesk.models.account_move",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskCategories",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.helpdesk_categories",
+        "description": "addons.odoo_website_helpdesk.models.helpdesk_categories",
+        "peekOfCode": "class HelpdeskCategories(models.Model):\n    \"\"\"This class represents the Helpdesk Categories, providing information\n    about different categories that can be assigned to helpdesk items.\n   \"\"\"\n    _name = 'helpdesk.categories'\n    _description = 'Helpdesk Categories'\n    name = fields.Char(string='Name', help='Category Name')\n    sequence = fields.Integer(string='Sequence', default=0,\n                              help='Sequence of a Category')",
+        "detail": "addons.odoo_website_helpdesk.models.helpdesk_categories",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskTag",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.helpdesk_tag",
+        "description": "addons.odoo_website_helpdesk.models.helpdesk_tag",
+        "peekOfCode": "class HelpdeskTag(models.Model):\n    \"\"\" Its handle to control the helpdesk ticket tags\"\"\"\n    _name = 'helpdesk.tag'\n    _description = 'Helpdesk Tag'\n    name = fields.Char(string='Tag', help='Choose the tags')",
+        "detail": "addons.odoo_website_helpdesk.models.helpdesk_tag",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskTypes",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.helpdesk_types",
+        "description": "addons.odoo_website_helpdesk.models.helpdesk_types",
+        "peekOfCode": "class HelpdeskTypes(models.Model):\n    \"\"\"Its handle to control helpdesk ticket types \"\"\"\n    _name = 'helpdesk.types'\n    _description = 'Helpdesk Types'\n    name = fields.Char(string='Type', help='Types helpdesk tickets')",
+        "detail": "addons.odoo_website_helpdesk.models.helpdesk_types",
+        "documentation": {}
+    },
+    {
+        "label": "HelpTeam",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.help_team",
+        "description": "addons.odoo_website_helpdesk.models.help_team",
+        "peekOfCode": "class HelpTeam(models.Model):\n    \"\"\" This class represents a Helpdesk Team in the system, providing\n     information about the team members, leader, and related project.\"\"\"\n    _name = 'help.team'\n    _description = 'Helpdesk Team'\n    name = fields.Char(string='Name', help='Name of the Helpdesk Team. It '\n                                           'identify the helpdesk team')\n    team_lead_id = fields.Many2one(\n        'res.users',\n        string='Team Leader',",
+        "detail": "addons.odoo_website_helpdesk.models.help_team",
+        "documentation": {}
+    },
+    {
+        "label": "HelpTicket",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.help_ticket",
+        "description": "addons.odoo_website_helpdesk.models.help_ticket",
+        "peekOfCode": "class HelpTicket(models.Model):\n    \"\"\"This model represents the Helpdesk Ticket, which allows users to raise\n    tickets related to products, services or any other issues. Each ticket has a\n    name, customer information, description, team responsible for handling\n    requests, associated project, priority level, stage, cost per hour, service\n    product, start and end dates, and related tasks and invoices.\"\"\"\n    _name = 'help.ticket'\n    _description = 'Help Ticket'\n    _inherit = ['mail.thread', 'mail.activity.mixin']\n    name = fields.Char(string='Name', default=lambda self: _('New'),",
+        "detail": "addons.odoo_website_helpdesk.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "addons.odoo_website_helpdesk.models.help_ticket",
+        "description": "addons.odoo_website_helpdesk.models.help_ticket",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nPRIORITIES = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),\n    ('2', 'Normal'),\n    ('3', 'High'),\n    ('4', 'Very High'),\n]\nRATING = [\n    ('0', 'Very Low'),",
+        "detail": "addons.odoo_website_helpdesk.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "PRIORITIES",
+        "kind": 5,
+        "importPath": "addons.odoo_website_helpdesk.models.help_ticket",
+        "description": "addons.odoo_website_helpdesk.models.help_ticket",
+        "peekOfCode": "PRIORITIES = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),\n    ('2', 'Normal'),\n    ('3', 'High'),\n    ('4', 'Very High'),\n]\nRATING = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),",
+        "detail": "addons.odoo_website_helpdesk.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "RATING",
+        "kind": 5,
+        "importPath": "addons.odoo_website_helpdesk.models.help_ticket",
+        "description": "addons.odoo_website_helpdesk.models.help_ticket",
+        "peekOfCode": "RATING = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),\n    ('2', 'Normal'),\n    ('3', 'High'),\n    ('4', 'Very High'),\n    ('5', 'Extreme High')\n]\nclass HelpTicket(models.Model):\n    \"\"\"This model represents the Helpdesk Ticket, which allows users to raise",
+        "detail": "addons.odoo_website_helpdesk.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "MailComposeMessage",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.mail_compose_message",
+        "description": "addons.odoo_website_helpdesk.models.mail_compose_message",
+        "peekOfCode": "class MailComposeMessage(models.TransientModel):\n    \"\"\" This class extends the functionality of the 'mail.compose.message'\n    model to include custom behavior for sending emails related to help tickets.\n   \"\"\"\n    _inherit = 'mail.compose.message'\n    def _action_send_mail(self, auto_commit=False):\n        \"\"\"Override of the base '_action_send_mail' method to include additional\n        logic when sending emails related to help tickets.\n        If the model associated with the mail is 'help.ticket', update the\n        'replied_date' field of the associated help ticket to the current date.",
+        "detail": "addons.odoo_website_helpdesk.models.mail_compose_message",
+        "documentation": {}
+    },
+    {
+        "label": "MergeTickets",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.merge_tickets",
+        "description": "addons.odoo_website_helpdesk.models.merge_tickets",
+        "peekOfCode": "class MergeTickets(models.Model):\n    \"\"\"Tickets merging class\n       This class allows users to merge support tickets or create new ones.\n    It provides functionality to consolidate information from multiple tickets.\n    \"\"\"\n    _name = 'merge.tickets'\n    _description = 'Merge Tickets'\n    _rec_name = 'support_ticket_id'\n    user_id = fields.Many2one('res.partner',\n                              string='Responsible User',",
+        "detail": "addons.odoo_website_helpdesk.models.merge_tickets",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectTask",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.project_task",
+        "description": "addons.odoo_website_helpdesk.models.project_task",
+        "peekOfCode": "class ProjectTask(models.Model):\n    \"\"\"\n    This class extends the 'project.task' model in Odoo to add a custom field\n     called 'ticket_billed' and 'ticket_id'.\n     ticket_billed: A boolean field indicating whether the ticket has\n     been billed or not.\n     ticket_id : A many2One field to link the task\n    with a help ticket\n    \"\"\"\n    _inherit = 'project.task'",
+        "detail": "addons.odoo_website_helpdesk.models.project_task",
+        "documentation": {}
+    },
+    {
+        "label": "ResConfigSettings",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.res_config_settings",
+        "description": "addons.odoo_website_helpdesk.models.res_config_settings",
+        "peekOfCode": "class ResConfigSettings(models.TransientModel):\n    \"\"\"This class extends the functionality of the 'res.config.settings' model\n     to provide configuration options for various settings related to the\n     helpdesk module.\n   \"\"\"\n    _inherit = 'res.config.settings'\n    show_create_task = fields.Boolean(\n        string=\"Create Tasks\",\n        config_parameter='odoo_website_helpdesk.show_create_task',\n        help='When enabling this field yu can create a task under the ticket')",
+        "detail": "addons.odoo_website_helpdesk.models.res_config_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SupportTickets",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.support_tickets",
+        "description": "addons.odoo_website_helpdesk.models.support_tickets",
+        "peekOfCode": "class SupportTickets(models.Model):\n    \"\"\"Creating onetoMany model to handle the merging ticket\"\"\"\n    _name = 'support.tickets'\n    _description = 'Support Tickets'\n    subject = fields.Char(string='Subject', help='Subject of the merged '\n                                                 'tickets')\n    display_name = fields.Char(string='Display Name',\n                               help='Display name of the merged tickets')\n    description = fields.Char(string='Description',\n                              help='Description of the tickets')",
+        "detail": "addons.odoo_website_helpdesk.models.support_tickets",
+        "documentation": {}
+    },
+    {
+        "label": "TicketStage",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.ticket_stage",
+        "description": "addons.odoo_website_helpdesk.models.ticket_stage",
+        "peekOfCode": "class TicketStage(models.Model):\n    \"\"\"This model represents the stages of a helpdesk ticket. A stage is used to\n    indicate the current state of a ticket, such as 'New', 'In Progress',\n    'Resolved', or 'Closed'. Stages are used to organize and track the\n    progress of tickets throughout their lifecycle.\"\"\"\n    _name = 'ticket.stage'\n    _description = 'Ticket Stage'\n    _order = 'sequence, id'\n    _fold_name = 'fold'\n    name = fields.Char(string='Name', help='The name of the stage. This field'",
+        "detail": "addons.odoo_website_helpdesk.models.ticket_stage",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteMenu",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk.models.website_menu",
+        "description": "addons.odoo_website_helpdesk.models.website_menu",
+        "peekOfCode": "class WebsiteMenu(models.Model):\n    \"\"\"\n     Inheriting the website menu.\n     This class inherits from the 'website.menu' model and extends its\n     functionality to compute the visibility of the menu\n     item based on the value of the 'odoo_website_helpdesk.helpdesk_menu_show'\n     configuration parameter.\n     Attributes:\n        _inherit (str): The name of the model being inherited.\n    \"\"\"",
+        "detail": "addons.odoo_website_helpdesk.models.website_menu",
+        "documentation": {}
+    },
+    {
+        "label": "HelpDeskDashboard",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.controller.helpdesk_website",
+        "description": "addons.odoo_website_helpdeskv2.controller.helpdesk_website",
+        "peekOfCode": "class HelpDeskDashboard(http.Controller):\n    \"\"\"Website helpdesk dashboard\"\"\"\n    @http.route(['/helpdesk_dashboard'], type='json', auth=\"public\")\n    def helpdesk_dashboard(self):\n        \"\"\"Helpdesk dashboard controller\"\"\"\n        stage_new = request.env['ticket.stage'].search(\n            [('name', '=', 'Inbox')], limit=1).id\n        stage_draft = request.env['ticket.stage'].search(\n            [('name', '=', 'Draft')], limit=1).id\n        stage_inprogress = request.env['ticket.stage'].search(",
+        "detail": "addons.odoo_website_helpdeskv2.controller.helpdesk_website",
+        "documentation": {}
+    },
+    {
+        "label": "TicketPortal",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.controller.portal",
+        "description": "addons.odoo_website_helpdeskv2.controller.portal",
+        "peekOfCode": "class TicketPortal(portal.CustomerPortal):\n    \"\"\" Controller for handling customer portal related actions related to\n    helpdesk tickets.\n    \"\"\"\n    def _prepare_home_portal_values(self, counters):\n        \"\"\"Prepares a dictionary of values to be used in the home portal view\n        and get their count.\"\"\"\n        values = super()._prepare_home_portal_values(counters)\n        if 'ticket_count' in counters:\n            ticket_count = request.env['help.ticket'].search_count(",
+        "detail": "addons.odoo_website_helpdeskv2.controller.portal",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteDesk",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.controller.portal",
+        "description": "addons.odoo_website_helpdeskv2.controller.portal",
+        "peekOfCode": "class WebsiteDesk(http.Controller):\n    \"\"\"Control for handling the helpdesk tickets form and its submission.\"\"\"\n    @http.route(['/helpdesk_ticket'], type='http', auth=\"public\",\n                website=True, sitemap=True)\n    def helpdesk_ticket(self):\n        \"\"\"Render the helpdesk ticket form.\"\"\"\n        types = request.env['helpdesk.types'].sudo().search([])\n        categories = request.env['helpdesk.categories'].sudo().search([])\n        product = request.env['product.template'].sudo().search([])\n        values = {}",
+        "detail": "addons.odoo_website_helpdeskv2.controller.portal",
+        "documentation": {}
+    },
+    {
+        "label": "TicketGroupBy",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.controller.ticket_group_by",
+        "description": "addons.odoo_website_helpdeskv2.controller.ticket_group_by",
+        "peekOfCode": "class TicketGroupBy(http.Controller):\n    \"\"\"Control for handle the  customer portal groupBy\n    filtering by the tickets.\"\"\"\n    @http.route(['/ticketgroupby'], type='json', auth=\"public\", website=True)\n    def ticket_group_by(self, **kwargs):\n        \"\"\"Display the list of tickets based on the groupBy filtering\"\"\"\n        context = []\n        group_value = kwargs.get(\"search_value\")\n        if group_value == '0':\n            context = []",
+        "detail": "addons.odoo_website_helpdeskv2.controller.ticket_group_by",
+        "documentation": {}
+    },
+    {
+        "label": "TicketSearch",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.controller.ticket_search",
+        "description": "addons.odoo_website_helpdeskv2.controller.ticket_search",
+        "peekOfCode": "class TicketSearch(http.Controller):\n    \"\"\"Control for handle the  customer portal search\n    filtering by the tickets.\"\"\"\n    @http.route(['/ticketsearch'], type='json', auth=\"public\", website=True)\n    def ticket_search(self, **kwargs):\n        \"\"\" Display the list of tickets satisfying the searching condition.\n        Searching the ticket  based on name or subject\"\"\"\n        search_value = kwargs.get(\"search_value\")\n        tickets = request.env[\"help.ticket\"].search(\n            ['|', ('name', 'ilike', search_value),",
+        "detail": "addons.odoo_website_helpdeskv2.controller.ticket_search",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskProduct",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.controller.website",
+        "description": "addons.odoo_website_helpdeskv2.controller.website",
+        "peekOfCode": "class HelpdeskProduct(http.Controller):\n    \"\"\"It controls the website products and return the product.\"\"\"\n    @http.route('/product', auth='public', type='json')\n    def product(self):\n        \"\"\"Product control function\"\"\"\n        products = request.env['product.template'].sudo().search_read([],\n                                                                      ['name',\n                                                                       'id'])\n        return products\nclass WebsiteFormInherit(WebsiteForm):",
+        "detail": "addons.odoo_website_helpdeskv2.controller.website",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteFormInherit",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.controller.website",
+        "description": "addons.odoo_website_helpdeskv2.controller.website",
+        "peekOfCode": "class WebsiteFormInherit(WebsiteForm):\n    \"\"\"This module extends the functionality of the website form controller\n    to handle the creation of new help desk tickets. It provides a new\n    controller to display a list of tickets for the current user in their\n    portal, and overrides the website form controller's method for handling\n    form submissions to create a new help desk ticket instead.\"\"\"\n    def _handle_website_form(self, model_name, **kwargs):\n        \"\"\"Website Help Desk Form\"\"\"\n        customer = request.env.user.partner_id\n        if model_name == 'help.ticket':",
+        "detail": "addons.odoo_website_helpdeskv2.controller.website",
+        "documentation": {}
+    },
+    {
+        "label": "AccountMove",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.account_move",
+        "description": "addons.odoo_website_helpdeskv2.models.account_move",
+        "peekOfCode": "class AccountMove(models.Model):\n    \"\"\" This class extends the functionality of the 'account.move' model to\n    include a reference to a help ticket through the 'ticket_id' field.\"\"\"\n    _inherit = 'account.move'\n    ticket_id = fields.Many2one('help.ticket', string='Ticket',\n                                help='Choose the tickets')",
+        "detail": "addons.odoo_website_helpdeskv2.models.account_move",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskCategories",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.helpdesk_categories",
+        "description": "addons.odoo_website_helpdeskv2.models.helpdesk_categories",
+        "peekOfCode": "class HelpdeskCategories(models.Model):\n    \"\"\"This class represents the Helpdesk Categories, providing information\n    about different categories that can be assigned to helpdesk items.\n   \"\"\"\n    _name = 'helpdesk.categories'\n    _description = 'Helpdesk Categories'\n    name = fields.Char(string='Name', help='Category Name')\n    sequence = fields.Integer(string='Sequence', default=0,\n                              help='Sequence of a Category')",
+        "detail": "addons.odoo_website_helpdeskv2.models.helpdesk_categories",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskTag",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.helpdesk_tag",
+        "description": "addons.odoo_website_helpdeskv2.models.helpdesk_tag",
+        "peekOfCode": "class HelpdeskTag(models.Model):\n    \"\"\" Its handle to control the helpdesk ticket tags\"\"\"\n    _name = 'helpdesk.tag'\n    _description = 'Helpdesk Tag'\n    name = fields.Char(string='Tag', help='Choose the tags')",
+        "detail": "addons.odoo_website_helpdeskv2.models.helpdesk_tag",
+        "documentation": {}
+    },
+    {
+        "label": "HelpdeskTypes",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.helpdesk_types",
+        "description": "addons.odoo_website_helpdeskv2.models.helpdesk_types",
+        "peekOfCode": "class HelpdeskTypes(models.Model):\n    \"\"\"Its handle to control helpdesk ticket types \"\"\"\n    _name = 'helpdesk.types'\n    _description = 'Helpdesk Types'\n    name = fields.Char(string='Type', help='Types helpdesk tickets')",
+        "detail": "addons.odoo_website_helpdeskv2.models.helpdesk_types",
+        "documentation": {}
+    },
+    {
+        "label": "HelpTeam",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.help_team",
+        "description": "addons.odoo_website_helpdeskv2.models.help_team",
+        "peekOfCode": "class HelpTeam(models.Model):\n    \"\"\" This class represents a Helpdesk Team in the system, providing\n     information about the team members, leader, and related project.\"\"\"\n    _name = 'help.team'\n    _description = 'Helpdesk Team'\n    name = fields.Char(string='Name', help='Name of the Helpdesk Team. It '\n                                           'identify the helpdesk team')\n    team_lead_id = fields.Many2one(\n        'res.users',\n        string='Team Leader',",
+        "detail": "addons.odoo_website_helpdeskv2.models.help_team",
+        "documentation": {}
+    },
+    {
+        "label": "HelpTicket",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "description": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "peekOfCode": "class HelpTicket(models.Model):\n    \"\"\"This model represents the Helpdesk Ticket, which allows users to raise\n    tickets related to products, services or any other issues. Each ticket has a\n    name, customer information, description, team responsible for handling\n    requests, associated project, priority level, stage, cost per hour, service\n    product, start and end dates, and related tasks and invoices.\"\"\"\n    _name = 'help.ticket'\n    _description = 'Help Ticket'\n    _inherit = ['mail.thread', 'mail.activity.mixin']\n    name = fields.Char(string='Name', default=lambda self: _('New'),",
+        "detail": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "description": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nPRIORITIES = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),\n    ('2', 'Normal'),\n    ('3', 'High'),\n    ('4', 'Very High'),\n]\nRATING = [\n    ('0', 'Very Low'),",
+        "detail": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "PRIORITIES",
+        "kind": 5,
+        "importPath": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "description": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "peekOfCode": "PRIORITIES = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),\n    ('2', 'Normal'),\n    ('3', 'High'),\n    ('4', 'Very High'),\n]\nRATING = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),",
+        "detail": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "RATING",
+        "kind": 5,
+        "importPath": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "description": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "peekOfCode": "RATING = [\n    ('0', 'Very Low'),\n    ('1', 'Low'),\n    ('2', 'Normal'),\n    ('3', 'High'),\n    ('4', 'Very High'),\n    ('5', 'Extreme High')\n]\nclass HelpTicket(models.Model):\n    \"\"\"This model represents the Helpdesk Ticket, which allows users to raise",
+        "detail": "addons.odoo_website_helpdeskv2.models.help_ticket",
+        "documentation": {}
+    },
+    {
+        "label": "MailComposeMessage",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.mail_compose_message",
+        "description": "addons.odoo_website_helpdeskv2.models.mail_compose_message",
+        "peekOfCode": "class MailComposeMessage(models.TransientModel):\n    \"\"\" This class extends the functionality of the 'mail.compose.message'\n    model to include custom behavior for sending emails related to help tickets.\n   \"\"\"\n    _inherit = 'mail.compose.message'\n    def _action_send_mail(self, auto_commit=False):\n        \"\"\"Override of the base '_action_send_mail' method to include additional\n        logic when sending emails related to help tickets.\n        If the model associated with the mail is 'help.ticket', update the\n        'replied_date' field of the associated help ticket to the current date.",
+        "detail": "addons.odoo_website_helpdeskv2.models.mail_compose_message",
+        "documentation": {}
+    },
+    {
+        "label": "MergeTickets",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.merge_tickets",
+        "description": "addons.odoo_website_helpdeskv2.models.merge_tickets",
+        "peekOfCode": "class MergeTickets(models.Model):\n    \"\"\"Tickets merging class\n       This class allows users to merge support tickets or create new ones.\n    It provides functionality to consolidate information from multiple tickets.\n    \"\"\"\n    _name = 'merge.tickets'\n    _description = 'Merge Tickets'\n    _rec_name = 'support_ticket_id'\n    user_id = fields.Many2one('res.partner',\n                              string='Responsible User',",
+        "detail": "addons.odoo_website_helpdeskv2.models.merge_tickets",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectTask",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.project_task",
+        "description": "addons.odoo_website_helpdeskv2.models.project_task",
+        "peekOfCode": "class ProjectTask(models.Model):\n    \"\"\"\n    This class extends the 'project.task' model in Odoo to add a custom field\n     called 'ticket_billed' and 'ticket_id'.\n     ticket_billed: A boolean field indicating whether the ticket has\n     been billed or not.\n     ticket_id : A many2One field to link the task\n    with a help ticket\n    \"\"\"\n    _inherit = 'project.task'",
+        "detail": "addons.odoo_website_helpdeskv2.models.project_task",
+        "documentation": {}
+    },
+    {
+        "label": "ResConfigSettings",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.res_config_settings",
+        "description": "addons.odoo_website_helpdeskv2.models.res_config_settings",
+        "peekOfCode": "class ResConfigSettings(models.TransientModel):\n    \"\"\"This class extends the functionality of the 'res.config.settings' model\n     to provide configuration options for various settings related to the\n     helpdesk module.\n   \"\"\"\n    _inherit = 'res.config.settings'\n    show_create_task = fields.Boolean(\n        string=\"Create Tasks\",\n        config_parameter='odoo_website_helpdesk.show_create_task',\n        help='When enabling this field yu can create a task under the ticket')",
+        "detail": "addons.odoo_website_helpdeskv2.models.res_config_settings",
+        "documentation": {}
+    },
+    {
+        "label": "SupportTickets",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.support_tickets",
+        "description": "addons.odoo_website_helpdeskv2.models.support_tickets",
+        "peekOfCode": "class SupportTickets(models.Model):\n    \"\"\"Creating onetoMany model to handle the merging ticket\"\"\"\n    _name = 'support.tickets'\n    _description = 'Support Tickets'\n    subject = fields.Char(string='Subject', help='Subject of the merged '\n                                                 'tickets')\n    display_name = fields.Char(string='Display Name',\n                               help='Display name of the merged tickets')\n    description = fields.Char(string='Description',\n                              help='Description of the tickets')",
+        "detail": "addons.odoo_website_helpdeskv2.models.support_tickets",
+        "documentation": {}
+    },
+    {
+        "label": "TicketStage",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.ticket_stage",
+        "description": "addons.odoo_website_helpdeskv2.models.ticket_stage",
+        "peekOfCode": "class TicketStage(models.Model):\n    \"\"\"This model represents the stages of a helpdesk ticket. A stage is used to\n    indicate the current state of a ticket, such as 'New', 'In Progress',\n    'Resolved', or 'Closed'. Stages are used to organize and track the\n    progress of tickets throughout their lifecycle.\"\"\"\n    _name = 'ticket.stage'\n    _description = 'Ticket Stage'\n    _order = 'sequence, id'\n    _fold_name = 'fold'\n    name = fields.Char(string='Name', help='The name of the stage. This field'",
+        "detail": "addons.odoo_website_helpdeskv2.models.ticket_stage",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteMenu",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdeskv2.models.website_menu",
+        "description": "addons.odoo_website_helpdeskv2.models.website_menu",
+        "peekOfCode": "class WebsiteMenu(models.Model):\n    \"\"\"\n     Inheriting the website menu.\n     This class inherits from the 'website.menu' model and extends its\n     functionality to compute the visibility of the menu\n     item based on the value of the 'odoo_website_helpdesk.helpdesk_menu_show'\n     configuration parameter.\n     Attributes:\n        _inherit (str): The name of the model being inherited.\n    \"\"\"",
+        "detail": "addons.odoo_website_helpdeskv2.models.website_menu",
+        "documentation": {}
+    },
+    {
+        "label": "HelpDeskTickets",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk_dashboard.controllers.main",
+        "description": "addons.odoo_website_helpdesk_dashboard.controllers.main",
+        "peekOfCode": "class HelpDeskTickets(http.Controller):\n    @http.route(['/help/tickets'], type=\"json\", auth=\"user\")\n    def elearning_snippet(self):\n        tickets = []\n        help_tickets = request.env['help.ticket'].sudo().search(\n            [('stage_id.name', '=', 'Inbox')])\n        for i in help_tickets:\n            tickets.append(\n                {'name': i.name, 'subject': i.subject, 'id': i.id})\n        values = {",
+        "detail": "addons.odoo_website_helpdesk_dashboard.controllers.main",
+        "documentation": {}
+    },
+    {
+        "label": "HelpDeskTicket",
+        "kind": 6,
+        "importPath": "addons.odoo_website_helpdesk_dashboard.models.helpdesk_dashboard",
+        "description": "addons.odoo_website_helpdesk_dashboard.models.helpdesk_dashboard",
+        "peekOfCode": "class HelpDeskTicket(models.Model):\n    \"\"\" Inherited class to get help desk ticket details....\"\"\"\n    _inherit = 'help.ticket'\n    @api.model\n    def check_user_group(self):\n        \"\"\"Checking user group\"\"\"\n        user = self.env.user\n        if user.has_group('base.group_user'):\n            return True\n        return False",
+        "detail": "addons.odoo_website_helpdesk_dashboard.models.helpdesk_dashboard",
+        "documentation": {}
+    }
+]
