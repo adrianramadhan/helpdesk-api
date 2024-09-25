@@ -29,7 +29,11 @@ Ensure you have the following installed on your local machine:
    git clone https://github.com/adrianramadhan/helpdesk-api.git
    cd helpdesk-api
    ```
-2. **Start Odoo using Docker**:
+2. **Configure env and start Odoo using Docker**:
+  ```bash
+    touch cp env.example .env 
+    <!-- update your avaliable port on env -->
+   ```
    Use the docker-compose.yml file to start the Odoo server.
    ```bash
    docker-compose up -d
