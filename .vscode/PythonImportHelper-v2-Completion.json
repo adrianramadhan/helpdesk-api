@@ -834,6 +834,14 @@
         "documentation": {}
     },
     {
+        "label": "AccessDenied",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
         "label": "ValidationError",
         "importPath": "odoo.exceptions",
         "description": "odoo.exceptions",
@@ -1027,11 +1035,11 @@
         "documentation": {}
     },
     {
-        "label": "HelpdeskApis",
+        "label": "YourController",
         "kind": 6,
         "importPath": "addons.helpdesk_apis.controllers.controllers",
         "description": "addons.helpdesk_apis.controllers.controllers",
-        "peekOfCode": "class HelpdeskApis(http.Controller):\n    @http.route('/api/hello-world', auth='public')\n    def index(self, **kw):\n        return \"Hello, world\"\n    @http.route('/api/login', auth='none', type='http', csrf=False, methods=['POST'])\n    def login(self, **kw):\n        try:\n            data = extract_fields_from_request(request.httprequest.data, ['email', 'password'])\n            email = data.get('email')\n            # Menyiapkan pesan dan data untuk respons",
+        "peekOfCode": "class YourController(http.Controller):\n    @http.route('/api/login', auth='none', type='http', csrf=False, methods=['POST'])\n    def login(self, **kw):\n            try:\n                # Extract email and password from the request\n                data = extract_fields_from_request(request.httprequest.data, ['email', 'password'])\n                email = data.get('email')\n                password = data.get('password')\n                _logger = logging.getLogger(__name__)\n                _logger.info(f\"Attempting to log in user: {email}\")",
         "detail": "addons.helpdesk_apis.controllers.controllers",
         "documentation": {}
     },
@@ -1094,7 +1102,16 @@
         "kind": 2,
         "importPath": "addons.helpdesk_apis.helpers.models",
         "description": "addons.helpdesk_apis.helpers.models",
-        "peekOfCode": "def ResCompany(env): return env['res.company'].sudo()\ndef ResCurrency(env): return env['res.currency'].sudo()\ndef ResPartner(env): return env['res.partner'].sudo()\ndef Event(env): return env['event.event'].sudo()",
+        "peekOfCode": "def ResCompany(env): return env['res.company'].sudo()\ndef ResUser(env): return env['res.users'].sudo()\ndef ResCurrency(env): return env['res.currency'].sudo()\ndef ResPartner(env): return env['res.partner'].sudo()\ndef Event(env): return env['event.event'].sudo()",
+        "detail": "addons.helpdesk_apis.helpers.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResUser",
+        "kind": 2,
+        "importPath": "addons.helpdesk_apis.helpers.models",
+        "description": "addons.helpdesk_apis.helpers.models",
+        "peekOfCode": "def ResUser(env): return env['res.users'].sudo()\ndef ResCurrency(env): return env['res.currency'].sudo()\ndef ResPartner(env): return env['res.partner'].sudo()\ndef Event(env): return env['event.event'].sudo()",
         "detail": "addons.helpdesk_apis.helpers.models",
         "documentation": {}
     },

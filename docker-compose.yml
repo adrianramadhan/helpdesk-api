@@ -40,7 +40,7 @@ services:
   odoo:
     image: odoo:16.0
     ports:
-      - "1876:8069"
+      - "1890:8069"
     command: ["--log-level=debug"]
     container_name: "tsg-helpdesk"
     restart: "unless-stopped"
