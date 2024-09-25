@@ -1031,7 +1031,7 @@
         "kind": 6,
         "importPath": "addons.helpdesk_apis.controllers.controllers",
         "description": "addons.helpdesk_apis.controllers.controllers",
-        "peekOfCode": "class HelpdeskApis(http.Controller):\n    @http.route('/helpdesk_apis/helpdesk_apis', auth='public')\n    def index(self, **kw):\n        return \"Hello, world\"\n    @http.route('/helpdesk_apis/helpdesk_apis/objects', auth='public')\n    def list(self, **kw):\n        return http.request.render('helpdesk_apis.listing', {\n            'root': '/helpdesk_apis/helpdesk_apis',\n            'objects': http.request.env['helpdesk_apis.helpdesk_apis'].search([]),\n        })",
+        "peekOfCode": "class HelpdeskApis(http.Controller):\n    @http.route('/api/hello-world', auth='public')\n    def index(self, **kw):\n        return \"Hello, world\"\n    @http.route('/api/login', auth='none', type='http', csrf=False, methods=['POST'])\n    def login(self, **kw):\n        try:\n            data = extract_fields_from_request(request.httprequest.data, ['email', 'password'])\n            email = data.get('email')\n            # Menyiapkan pesan dan data untuk respons",
         "detail": "addons.helpdesk_apis.controllers.controllers",
         "documentation": {}
     },
